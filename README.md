@@ -72,3 +72,22 @@ This template is reusable for:
 
 [Template](https://app.quadratichq.com/file/1f45742b-099c-447d-b933-eeb82f5d6d55)
 
+## ✅ Steps to Use the Price Prediction Template		
+1. In the Data sheet, upload your dataset as a CSV file.		
+🔸 File name must be exactly: data.csv		
+		
+2. Switch to the Prediction sheet, and		
+press Ctrl + Enter in the Python cells to rerun the model training and prediction pipeline.		
+		
+3. To predict a new laptop's price: (by default last row is taken as sample input for price prediction		
+➕ Append a new row at the bottom of your dataset with input features filled in.		
+🔹 Leave the price field blank — it will be predicted.		
+		
+4. The code will automatically:		
+Detect the last row as the new input.		
+Display the input features.		
+Show the predicted price.
+
+## Sample Data
+Sample data has been provided in this repo under 5 folders.
+Use them and explore!
