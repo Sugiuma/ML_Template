@@ -74,8 +74,8 @@ This template is reusable for:
 
 ## ✅ Steps to Use the Price Prediction Template		
 1. In the Data sheet, upload your dataset as a CSV file.
-     
-🔸 File name must be exactly: data.csv		
+
+2.  File name must be exactly: data.csv		
 		
 3. Switch to the Prediction sheet, and		
 press Ctrl + Enter in the Python cells to rerun the model training and prediction pipeline.		
