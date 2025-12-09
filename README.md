@@ -1,4 +1,12 @@
-# 🧮 Price Predictor — Universal ML Template
+## 🧮 Price Predictor — Universal ML Template
+
+### 📢 About This Project
+
+Built as part of the Quadratic ML Challenge, this project demonstrates how no-code interfaces can democratize machine learning by giving non-technical users powerful analysis tools — right inside a spreadsheet.
+
+Machine learning shouldn’t feel like programming.
+It should feel like understanding your data.
+
 ### **ML for everyone — right inside a spreadsheet.**
 
 💭 *“What’s a fair price of a laptop, car, phone, house, or insurance premium?”*  
