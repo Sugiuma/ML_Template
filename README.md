@@ -68,4 +68,7 @@ This template is reusable for:
 
 ---
 
+## Template Link:
+
+[Template](https://app.quadratichq.com/file/1f45742b-099c-447d-b933-eeb82f5d6d55)
 
