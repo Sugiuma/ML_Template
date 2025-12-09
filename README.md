@@ -72,6 +72,10 @@ This template is reusable for:
 
 [Template](https://app.quadratichq.com/file/1f45742b-099c-447d-b933-eeb82f5d6d55)
 
+## Video Demo:
+
+[Video Demo](https://www.linkedin.com/feed/update/urn:li:activity:7351696203337682945/)
+
 ## ✅ Steps to Use the Price Prediction Template		
 1. In the Data sheet, upload your dataset as a CSV file.
 
